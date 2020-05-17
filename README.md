@@ -1,16 +1,7 @@
-# doctor_consultation_app
+# Doctor Consultation App
+## [Youtube: Doctor Consultation App - Speed Code](https://www.youtube.com/watch?v=stNC-6nIskU&feature=youtu.be)
+Packages
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design Credit: [Asif Robhan](https://dribbble.com/shots/9780713-Doctor-Consultation-App)
